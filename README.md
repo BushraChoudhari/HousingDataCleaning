@@ -1,6 +1,7 @@
 **DATA CLEANING IN SQL**
 
 Downloaded Dataset from Kaggle
+
 Imported it into SSMS
 Performed following steps to clean housing data
 1. Standardize SaleDate Format
