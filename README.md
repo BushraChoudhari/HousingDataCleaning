@@ -12,3 +12,4 @@ Performed following steps to clean housing data
 5. Replace 'y' and 'n' with 'Yes' and 'No' Using a CASE Statement
 6. Eliminate Duplicates Using Common Table Expressions (CTE)
 7. Remove Unnecessary Columns
+8. Made a Dashboard using Power BI
