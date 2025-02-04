@@ -3,6 +3,7 @@
 Downloaded Dataset from Kaggle
 
 Imported it into SSMS
+
 Performed following steps to clean housing data
 1. Standardize SaleDate Format
 2. Fill in Missing Address Information
