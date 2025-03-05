@@ -13,3 +13,6 @@ Performed following steps to clean housing data
 6. Eliminate Duplicates Using Common Table Expressions (CTE)
 7. Remove Unnecessary Columns
 8. Made a Dashboard using Power BI
+
+   ![housing](https://github.com/user-attachments/assets/a0bbb804-ae5e-4878-bf80-5efab1a3cc11)
+
